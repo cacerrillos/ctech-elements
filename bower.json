@@ -16,6 +16,7 @@
     "tests"
   ],
   "dependencies": {
+    "ctech-dialogs": "~1",
     "ctech-dropdown-selector": "~1",
     "ctech-selector-behavior": "~1",
     "ctech-item-managers": "~1"
