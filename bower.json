@@ -1,0 +1,22 @@
+{
+  "name": "ctech-elements",
+  "authors": [
+    "Carlos Cerrillos <carlos@cerrillostech.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "Closed Source",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ctech-dropdown-selector": "~1",
+    "ctech-selector-behavior": "~1"
+  }
+}
