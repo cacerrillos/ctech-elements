@@ -3,8 +3,8 @@
   "authors": [
     "Carlos Cerrillos <carlos@cerrillostech.com>"
   ],
-  "description": "",
-  "main": "",
+  "description": "All Cerrilos Tech Elements",
+  "main": "ctech-elements.html",
   "moduleType": [],
   "license": "Closed Source",
   "homepage": "",
@@ -20,6 +20,7 @@
     "ctech-dropdown-selector": "~1",
     "ctech-item-managers": "~1",
     "ctech-load-placeholder": "~1",
+    "ctech-menubar-selector": "#~1",
     "ctech-selector-behavior": "~1"
   }
 }
