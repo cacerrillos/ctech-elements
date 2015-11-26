@@ -21,6 +21,7 @@
     "ctech-item-managers": "~1",
     "ctech-load-placeholder": "~1",
     "ctech-menubar-selector": "#~1",
-    "ctech-selector-behavior": "~1"
+    "ctech-selector-behavior": "~1",
+	"ctech-tinymce": "~1"
   }
 }
